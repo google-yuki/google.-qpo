@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: google-onoo
     env: docker
     plan: free
